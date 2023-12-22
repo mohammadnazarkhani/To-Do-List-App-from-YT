@@ -14,9 +14,9 @@ Welcome to the To-Do List Web App! This application was initially created follow
 
 ## Features
 
-- Add a Task: Use the app to add new tasks to your to-do list.
-- Delete a Task: Remove tasks that are no longer needed.
-- Mark as Complete: Easily mark tasks as complete to track your progress.
+- **Add a Task:** Use the app to add new tasks to your to-do list.
+- **Delete a Task**: Remove tasks that are no longer needed.
+- **Mark as Complete:** Easily mark tasks as complete to track your progress.
 
 ## Future Improvements
 
