@@ -10,7 +10,7 @@ Welcome to the To-Do List Web App! This application was initially created follow
    git clone https://github.com/mohammadnazarkhani/To-Do-List-App-from-YT.git
     ```
 
-3. Open the index.html file in your browser.
+3. Open the ```index.html``` file in your browser.
 
 ## Features
 
