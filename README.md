@@ -6,9 +6,11 @@ Welcome to the To-Do List Web App! This application was initially created follow
 
 1. Clone the repository by running the following command in your terminal:
 
-    ```git clone https://github.com/mohammadnazarkhani/To-Do-List-App-from-YT.git```
+    ```
+   git clone https://github.com/mohammadnazarkhani/To-Do-List-App-from-YT.git
+    ```
 
-2. Open the index.html file in your browser.
+3. Open the index.html file in your browser.
 
 ## Features
 
